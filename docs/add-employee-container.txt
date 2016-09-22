@@ -1,0 +1,14 @@
+> npm run generate
+
+> react-boilerplate@3.1.0 generate C:\dev\foss\react-boilerplate-spring-boot\react-boilerplate
+> plop --plopfile internals/generators/index.js
+
+? [PLOP] Please choose a generator. component - Add an unconnected component
+? [COMPONENT] Select the type of component ES6 Class
+? [COMPONENT] What should it be called? Employee
+? [COMPONENT] Does it have styling? Yes
+? [COMPONENT] Do you want i18n messages (i.e. will this component use text)? No
+[SUCCESS] add C:\dev\foss\react-boilerplate-spring-boot\react-boilerplate\app\components\Employee\index.js
+[SUCCESS] add C:\dev\foss\react-boilerplate-spring-boot\react-boilerplate\app\components\Employee\tests\index.test.js
+[SUCCESS] add C:\dev\foss\react-boilerplate-spring-boot\react-boilerplate\app\components\Employee\styles.css
+
