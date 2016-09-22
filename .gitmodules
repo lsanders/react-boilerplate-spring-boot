@@ -1,7 +1,7 @@
 [submodule "react-boilerplate"]
 	path = react-boilerplate
 	url = git@github.com:lsanders/react-boilerplate.git
-	branch = counter-example
+	branch = master
 [submodule "tut-react-and-spring-data-rest"]
 	path = tut-react-and-spring-data-rest
 	url = git@github.com:lsanders/tut-react-and-spring-data-rest.git
